@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\TWHudHJlIEdpbXMgLSBFc3QtY2UgcXVlIHR1IG0nYWltZXM=.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">5809351</Metadata>
+    <Metadata name="Source">Maître Gims - Est-ce que tu m'aimes.mp3</Metadata>
+    <Metadata name="SourceFile">TWHudHJlIEdpbXMgLSBFc3QtY2UgcXVlIHR1IG0nYWltZXM=.mp3</Metadata>
+    <Metadata name="mp3">MaÃ®tre Gims - Est-ce que tu m'aimes</Metadata>
+    <Metadata name="srcurl">TWHudHJlIEdpbXMgLSBFc3QtY2UgcXVlIHR1IG0nYWltZXM=.mp3</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">TWHudHJlIEdpbXMgLSBFc3QtY2UgcXVlIHR1IG0nYWltZXM=.mp3</Metadata>
+    <Metadata name="srclinkFile">TWHudHJlIEdpbXMgLSBFc3QtY2UgcXVlIHR1IG0nYWltZXM=.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Date">05-11-2024</Metadata>
+    <Metadata name="dc.Title">Maître Gims - Est-ce que tu m'aimes</Metadata>
+    <Metadata name="Title">Maître Gims - Est-ce que tu m'aimes</Metadata>
+    <Metadata name="Identifier">HASH8621aa7a92e8b1969b6969</Metadata>
+    <Metadata name="lastmodified">1715450321</Metadata>
+    <Metadata name="lastmodifieddate">20240511</Metadata>
+    <Metadata name="oailastmodified">1715451160</Metadata>
+    <Metadata name="oailastmodifieddate">20240511</Metadata>
+    <Metadata name="assocfilepath">HASH8621.dir</Metadata>
+    <Metadata name="gsdlassocfile">TWHudHJlIEdpbXMgLSBFc3QtY2UgcXVlIHR1IG0nYWltZXM=.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

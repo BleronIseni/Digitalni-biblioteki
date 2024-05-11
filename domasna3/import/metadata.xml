@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata>
+	<FileSet>
+		<FileName>Ma%EEtre Gims - Est-ce que tu m'aimes\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Maître Gims - Est-ce que tu m'aimes</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">05-11-2024</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Ma%EEtre Gims - Tant pis\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Date">05-11-2024</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Maître Gims - Tant pis</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>slika - 3\.jpg</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">slika3</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">05-11-2024</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>slika1\.jpg</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Date">05-11-2024</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">slika1</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>slika2\.jpg</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Date">05-11-2024</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">slika2</Metadata>
+		</Description>
+	</FileSet>
+</DirectoryMetadata>

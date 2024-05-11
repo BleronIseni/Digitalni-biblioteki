@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\TWHudHJlIEdpbXMgLSBUYW50IHBpcw==.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">6577389</Metadata>
+    <Metadata name="Source">Maître Gims - Tant pis.mp3</Metadata>
+    <Metadata name="SourceFile">TWHudHJlIEdpbXMgLSBUYW50IHBpcw==.mp3</Metadata>
+    <Metadata name="mp3">MaÃ®tre Gims - Tant pis</Metadata>
+    <Metadata name="srcurl">TWHudHJlIEdpbXMgLSBUYW50IHBpcw==.mp3</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">TWHudHJlIEdpbXMgLSBUYW50IHBpcw==.mp3</Metadata>
+    <Metadata name="srclinkFile">TWHudHJlIEdpbXMgLSBUYW50IHBpcw==.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Date">05-11-2024</Metadata>
+    <Metadata name="dc.Title">Maître Gims - Tant pis</Metadata>
+    <Metadata name="Title">Maître Gims - Tant pis</Metadata>
+    <Metadata name="Identifier">HASH01642ffe9c59cd8da12d2513</Metadata>
+    <Metadata name="lastmodified">1715450331</Metadata>
+    <Metadata name="lastmodifieddate">20240511</Metadata>
+    <Metadata name="oailastmodified">1715451160</Metadata>
+    <Metadata name="oailastmodifieddate">20240511</Metadata>
+    <Metadata name="assocfilepath">HASH0164.dir</Metadata>
+    <Metadata name="gsdlassocfile">TWHudHJlIEdpbXMgLSBUYW50IHBpcw==.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>
